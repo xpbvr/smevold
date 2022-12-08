@@ -1,7 +1,7 @@
 [VOLD Projects](https://github.com/VOLDProjects)
 ## Isak Smevold
 #### About me
-Born 2006-08-03. Developer since 2019.
+2006-08-03
 
 📍 Hallstahammar, Sweden
 
