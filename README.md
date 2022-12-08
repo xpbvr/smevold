@@ -1,16 +1,39 @@
-### Hi there 👋
 
-<!--
-**smevold/smevold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Isak Smevold
+#### About me
+Born 2006-08-03. Developer since 2019.
 
-Here are some ideas to get you started:
+📍 Hallstahammar, Sweden
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Studying IT @ NTI Gymnasiet Västerås
+____
+
+* Fullstack Web Development
+* Game Development
+* Software Engineering
+* UI/UX Design
+
+____
+#### I work with
+* HTML & CSS
+* JavaScript
+* TypeScript
+* React
+* NextJS
+* Figma
+* C++
+* C#
+
+
+
+____
+#### Currently working on
+* [VOLD Web Panel](https://github.com/smevold/VOLD)
+* [SystemManager Process Manager](https://github.com/SystemMonitorTools)
+____
+#### Previously worked on
+* [TeamScaleform](https://github.com/TeamSCALEFORM/scaleform)
+
+
+
+
