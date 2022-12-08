@@ -1,12 +1,9 @@
 [VOLD Projects](https://github.com/VOLDProjects)
+
 ## Isak Smevold
-#### About me
-2006-08-03
-
-📍 Hallstahammar, Sweden
-
-Studying IT @ NTI Gymnasiet Västerås
-____
+![AGE](https://img.shields.io/badge/2006-08--03-be4df7?style=for-the-badge)
+![LOCATION](https://img.shields.io/badge/Hallstahammar-Sweden-f74d4d?style=for-the-badge)
+![EDUCATION](https://img.shields.io/badge/Studying%20at-NTI%20Gymnasiet%20V%C3%A4ster%C3%A5s-e8ff63?style=for-the-badge)
 
 * Fullstack Web Development
 * Game Development
