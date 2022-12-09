@@ -17,6 +17,7 @@ ____
 * TypeScript
 * React
 * NextJS
+* * Electron
 * Figma
 * C++
 * C#
