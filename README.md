@@ -1,4 +1,4 @@
-[VOLD Projects](https://github.com/VOLDProjects)
+
 
 ## Isak Smevold
 ![AGE](https://img.shields.io/badge/2006-08--03-be4df7?style=for-the-badge)
@@ -12,12 +12,14 @@
 
 ____
 #### I work with
-* HTML & CSS
+* HTML
+* CSS
 * JavaScript
 * TypeScript
 * React
 * NextJS
-* * Electron
+* Remix
+* Electron
 * Figma
 * C++
 * C#
@@ -26,8 +28,8 @@ ____
 
 ____
 #### Currently working on
-* NEXTJS Web Panel
-* [SystemManager Process Manager](https://github.com/SystemMonitorTools)
+* Remix Web Panel
+* [SystemMonitor Process Manager](https://github.com/SystemMonitorTools)
 ____
 #### Previously worked on
 * [TeamScaleform](https://github.com/TeamSCALEFORM/scaleform)
